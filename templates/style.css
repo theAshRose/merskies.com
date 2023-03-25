@@ -1,6 +1,6 @@
 header {
     height: 100px;
-    background-color: rgb(73, 6, 131);
+    background-image: linear-gradient(to left, #8F00FF, #ff2200);
 }
 
 h1 {
