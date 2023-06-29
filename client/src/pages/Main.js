@@ -1,4 +1,5 @@
 import React from 'react';
+import '../css/master.css'
 
 const Main = () => {
     return (
@@ -17,9 +18,6 @@ const Main = () => {
                                 <li class="nav-item">
                                     <a class="nav-link active text-white fw-bold" aria-current="page" href="#">Log In/Create
                                         account</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link text-white fw-bold" href="#">Cart</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link text-white fw-bold" href="#">Cart</a>
