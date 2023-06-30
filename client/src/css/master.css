@@ -24,7 +24,7 @@ header {
     box-shadow: 0 0 20px 10px #04d9ff !important;
 }
 
-main {
+body {
     min-height: 100vh;
 }
 
@@ -39,4 +39,9 @@ main {
     border: none;
     color: black;
     box-shadow: 0 0 5px #04d9ff, 0 0 25px #04d9ff, 0 0 50px #04d9ff, 0 0 200px #04d9ff !important;
+}
+
+#twitch-player { 
+    min-height: 100px;
+    background-color: black;
 }

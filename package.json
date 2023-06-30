@@ -27,6 +27,7 @@
         "nodemon": "^2.0.22",
         "react-bootstrap": "^2.8.0",
         "sequelize": "^6.32.1",
-        "sessions": "^0.0.2-7"
+        "sessions": "^0.0.2-7",
+        "twitch-embed": "^1.1.4"
     }
 }
